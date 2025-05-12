@@ -11,5 +11,8 @@
         "@pika/plugin-build-web"
       ]
     ]
+  },
+  "engines": {
+    "node": ">= 20"
   }
 }
